@@ -1,0 +1,18 @@
+.header {
+    background-color: lightgreen;
+    padding: 40px;
+}
+
+.main {
+    background-color: mediumpurple;
+    padding: 40px;
+}
+
+body {
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}

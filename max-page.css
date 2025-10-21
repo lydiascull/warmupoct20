@@ -1,0 +1,19 @@
+.header {
+    background-color: lightcoral;
+    padding: 40px;
+    
+}
+
+.main {
+    background-color: lightblue;
+    padding: 40px;
+}
+
+body {
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
